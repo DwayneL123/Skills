@@ -1,0 +1,64 @@
+body {
+    font-family: Tahoma, Verdana, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 30px;
+}
+
+h1 {
+    font-family: Georgia, 'Bookman Old Style', serif;
+    color: #2C3E50;
+    text-align: center;
+    padding: 30px 0;
+    font-size: 40px; 
+    font-weight: bold;
+    text-transform: uppercase; 
+    letter-spacing: 2px; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); 
+}
+
+hr {
+    border: none;
+    height: 2px;
+    background-color: #7D98A1;
+    width: 80%;
+    margin: 15px auto;
+}
+
+
+h3, p {
+    width: 95%; 
+    max-width: 1600px; 
+    margin: 30px auto;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+h3 {
+    color: #ffffff;
+    font-size: 24px;
+    background: #7D98A1;
+    padding: 30px;
+    line-height: 1.4;
+    text-align: center;
+    font-weight: bold;
+}
+
+p {
+    text-indent: 50px;
+    background: white;
+    padding: 40px;
+    line-height: 1.8;
+    font-size: 18px;
+    text-align: justify;
+}
+
+sup {
+    font-size: 12px; 
+    line-height: 0; 
+    vertical-align: super; 
+    margin-left: 2px; 
+    color: #7D98A1; 
+}
+
